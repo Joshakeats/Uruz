@@ -34,9 +34,13 @@ Challenge: To translate complex user intent and vast sensory data into seamless,
 What makes it different: The prosthesis features a specialized, distributed AI architecture designed for intelligent, hierarchical control, closely related to the natural relay centers found in the human body, such as those at the cervical (neck), shoulder, and coccygeal (tailbone) regions. This system processes high-dimensional sensory input (from the sonic skin, proprioception, and visual telemetry) and orchestrates the nitinol musculature through a tiered priority system:
 
 Tier 1 (Local/Reflexive): Responsible for real-time, low-level muscle control and immediate sensor interpretation within specific segments or joints. This tier handles rapid, reflexive actions (e.g., preventing slippage, yielding to impact), prioritizing speed and direct responsiveness based on local feedback.
+
 Tier 2 (Nearest Related): Integrates information and coordinates actions with AI components in immediately adjacent prosthetic parts, enabling basic coordination between neighboring segments.
+
 Tier 3 (Next Related): Incorporates input from more distant, relevant parts of the limb, building a broader understanding of the limb's overall state and environmental interaction.
+
 Tier 4 (Ancillary/Higher-Level): The highest tier in this distributed system, integrating information from across the limb and inferring higher-level states like user intent ("Am I anticipating?"), whether the limb is "at rest," and providing overall contextual understanding to inform the lower tiers.
+
 Crucially, through continuous learning and adaptation, the distributed AI interlinks can identify and match the user's natural motion and overall body style—their unique "modus operandi." This allows the Cyberlimb to move not just functionally, but with the user's inherent grace, rhythm, and individual characteristics.
 
 Ultimate potential: This tiered architecture allows for an optimal blend of rapid, reactive behavior and nuanced, context-aware control. It enables the AI to learn and adapt to the user's specific movement patterns and preferences over time, facilitating the development of intuitive muscle memory and the execution of highly complex tasks, such as manipulating delicate objects or even playing musical instruments with unprecedented dexterity and feel. This distributed processing also enhances robustness and scalability across multiple prosthetic limbs.
