@@ -34,7 +34,7 @@ Building upon the successful validation of core nitinol actuation in Phase 1, th
 
 * **Integrated Fluidic System:** Develop a fully closed-loop, miniaturized fluidic system (initial *sanguis*) capable of precise and efficient thermal regulation of the nitinol coils. This includes micro-conduits integrated within the armature structure and a compact external or semi-integrated pump/reservoir.
 * **Enhanced Nitinol Control:** Achieve more refined and rapid control over nitinol contraction and relaxation by optimizing the integrated fluidic thermal system. Focus on demonstrating repeatable, accurate positioning of the joint.
-* **Initial Internal Sensing:** Implement basic internal sensors (e.g., temperature, position encoders) to provide feedback on the joint's state and the nitinol's condition. This will be the precursor to the comprehensive sonic skin and proprioception.
+* **Initial Internal Sensing:** Implement basic internal sensors to provide feedback on the joint's state and the nitinol's condition. This will be the precursor to the comprehensive sonic skin and proprioception. **For rudimentary tactile and pressure feedback, we will explore the integration of miniaturized, highly sensitive pressure/force sensors, drawing inspiration from the precision of digital scales. These sensors will be placed at key contact points on the prototype's armature to relay information (e.g., fractional ounce pressure) to the conceptual AI control module and, eventually, the core processing unit.**
 * **Conceptual AI Control Module & User Interface:** Begin developing the algorithmic framework for a basic AI control module. This module will interpret sensor data and manage the fluidic system to actuate the nitinol, moving towards adaptive strength regulation and responsive joint movement. For initial prototyping, this will include exploring an intuitive, non-finger-based human interface, such as a remote control with 'joint-based' physical inputs (similar to flight sticks but articulating a joint), to simulate a more natural, kinesthetic connection with the prototype's movement.
 
 **Deliverables:**
@@ -46,8 +46,9 @@ Building upon the successful validation of core nitinol actuation in Phase 1, th
 
 **Key Considerations & Challenges:**
 
-* **Miniaturization:** Scaling down the fluidic components to fit within the armature.
+* **Miniaturization:** Scaling down the fluidic components and sensory components to fit within the armature.
 * **Heat Dissipation:** Ensuring efficient heat transfer to and from the nitinol without overheating surrounding components or the fluid.
 * **Control Algorithm Complexity:** Developing stable and responsive control loops for combined thermal and mechanical actuation.
 * **Material Compatibility:** Ensuring long-term compatibility between the fluid, nitinol, armature materials, and integrated sensors.
 * **User Interface Design:** Crafting an ergonomic and intuitive 'joint-based' control system that allows for natural and precise manipulation of the prototype.
+* **Sensor Integration & Noise:** Developing methods for robustly integrating miniaturized sensors and filtering out electrical or mechanical noise for clean data.
