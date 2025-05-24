@@ -5,8 +5,21 @@ This initial phase focuses on validating the fundamental principles of the Cyber
 **Key Objectives:**
 
 * **Single Hinge Joint Armature:** Design and fabricate a basic skeletal structure featuring a single, functional hinge joint. This will be minimalistic, prioritizing ease of manufacturing (e.g., 3D printed components like PLA or ABS) for rapid prototyping. The design must include clear connection points for nitinol attachment.
-* **Nitinol Actuation Proof-of-Concept:** Integrate **initial muscle groups comprising one bicep, one tricep, one flexor, and one extensor** onto the hinge joint. The primary aim is to reliably demonstrate controlled flexion and extension of the joint through the nitinol's shape memory effect.
-* **Basic Thermal Interaction:** Implement a simplified thermal system consisting of **two main conduits (one hot, one cold)**. These conduits will run through the **center of the ribbon-wrapped nitinol bands (muscle groups)** to facilitate rapid heating and cooling. This setup will focus on proving the rapid thermal response needed for actuation, without necessarily integrating the full closed-loop fluidic system internally at this stage.
+* **Nitinol Actuation Proof-of-Concept:** Integrate initial muscle groups comprising one bicep, one tricep, one flexor, and one extensor onto the hinge joint. The primary aim is to reliably demonstrate controlled flexion and extension of the joint through the nitinol's shape memory effect.
+* **Basic Thermal Interaction:** Implement a simplified thermal system consisting of two main conduits (one hot, one cold). These conduits will run through the center of the ribbon-wrapped nitinol bands (muscle groups) to facilitate rapid heating and cooling. This setup will focus on proving the rapid thermal response needed for actuation, without necessarily integrating the full closed-loop fluidic system internally at this stage.
+
+**Deliverables:**
+
+* CAD models and specifications for the basic single-joint armature.
+* Functional demonstration of controlled movement via nitinol actuation.
+* Preliminary data on nitinol response times and thermal cycling under basic control.
+
+**Key Considerations & Resources:**
+
+* **Rapid Prototyping Facilities:** Access to 3D printers for manufacturing armature segments. While specialized fabrication facilities (e.g., at universities or industrial plants) would be beneficial for advanced stages, initial prototyping can leverage more accessible 3D printing.
+* **Nitinol Sourcing:** Identifying and acquiring ribbon-wire nitinol from specialized manufacturers. Initial research points to companies like Ulbrich Stainless Steels & Special Metals, Fort Wayne Metals, and EdgeTech Industries as potential suppliers for nitinol in various forms suitable for this application.
+* **Design Tools & Methods:** Utilizing **photogrammetry or 3D scanning of existing anatomical structures** (e.g., bones) can greatly expedite the initial design and digital modeling of armature components, complementing traditional CAD approaches. This leverages real-world forms for biomimicry.
+* **Distributed Collaboration:** The open-source nature of this project on GitHub means that collaborators with access to diverse fabrication equipment, specialized materials, or advanced design tools (like high-fidelity scanners) can contribute their resources and expertise globally.
 
 **Deliverables:**
 
