@@ -35,4 +35,19 @@ As an Open Source project, we wholeheartedly welcome new ideas, insights, and co
 - Open a Pull Request from your branch to the main branch of the main Cyberlimb repository.
 - Ensure your PR description clearly explains the changes you've made and why.
 
+### Getting Started (Contribution Workflow)
 
+For those ready to dive in and contribute directly, here's a general workflow to guide your efforts:
+
+* **Code of Conduct:** To ensure a welcoming and inclusive environment for everyone, we ask all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please read it before contributing.
+* **Reporting Issues or Bugs:** If you find a bug or an issue with the Cyberlimb concept or documentation, please open a new issue on our [GitHub Issues page](https://github.com/Joshakeats/Cyberlimb/issues). Before opening a new issue, please search existing ones to avoid duplicates.
+* **Proposing New Features or Ideas:** Have a brilliant idea or a new concept you'd like to propose? We encourage you to open a new discussion on our [GitHub Discussions page](https://github.com/Joshakeats/Cyberlimb/discussions) (or create an issue if it's a specific, actionable feature). This allows for open brainstorming and feedback.
+* **Submitting Changes (Pull Requests):** For making actual changes to the documentation, design files, or code (when applicable), we follow a standard Pull Request (PR) workflow:
+    * **Fork** the repository to your own GitHub account.
+    * **Clone** your forked repository to your local machine.
+    * Create a new **branch** for your changes.
+    * Make your **changes** (e.g., update documentation, add a design file).
+    * **Commit** your changes with clear, concise messages.
+    * **Push** your branch to your forked repository.
+    * Open a **Pull Request** from your branch to the `main` branch of the main Cyberlimb repository.
+    * Ensure your PR description clearly explains the changes you've made and why.
