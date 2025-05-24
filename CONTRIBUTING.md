@@ -60,3 +60,12 @@ We encourage open discussion and collaboration. Here are the primary ways to con
 * **GitHub Discussions:** For broader conceptual discussions, proposing new ideas, seeking feedback, or general community interaction.
 
 We aim to foster a responsive and supportive environment. Please be patient if it takes a little time to respond, as this is a volunteer-driven, early-stage project.
+
+### Communication Channels
+
+We encourage open discussion and collaboration. Here are the primary ways to connect with the Cyberlimb project community:
+
+* **GitHub Issues:** For reporting bugs, discussing specific technical challenges, or tracking tasks related to planned features.
+* **GitHub Discussions:** For broader conceptual discussions, proposing new ideas, seeking feedback, or general community interaction.
+
+We aim to foster a responsive and supportive environment. Please be patient if it takes a little time to respond, as this is a volunteer-driven, early-stage project.
