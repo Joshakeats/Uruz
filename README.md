@@ -5,7 +5,7 @@ An open source, biomimetic prosthesis utilizing nitinol musculature, and advance
 Nitinol Musculature: Biomimicking Natural Force
 Challenge: Create a biomimetic musculature system that is strong, reliable, and responsive, accurately imitating natural musculature.
 
-What makes it different: This prosthesis incorporates coiled bands of nitinol, a memory metal alloy that returns to its shape when heated. These coiled bands appear as tapered coils, much like that of a roto-rooter. This tapered form represents their memory state, designed to be contracted. When one muscle group is cooled, it becomes elastic, allowing the opposing muscle group, when heated, to pull it, putting it into its extended state. This push/pull system precisely imitates natural musculature, with the tapered form of the coiled bands attenuating the distribution of force for nuanced control.
+What makes it different: This prosthesis incorporates coiled bands of nitinol, a memory metal alloy that returns to its shape when heated. These coiled bands appear as tapered helical filaments, much like ribbon-wound guitar strings. This tapered form represents their memory state, designed to be contracted powerfully along their axis. When one muscle group is cooled, it becomes elastic, allowing the opposing muscle group, when heated, to pull it, putting it into its extended state. This push/pull system precisely imitates natural musculature, with the tapered form of the coiled bands attenuating the distribution of force for nuanced control.
 
 Ultimate potential: With the proper design and construction, these artificial muscles would be very close to those of a human's, enabling highly natural movement and strength.
 
