@@ -51,3 +51,12 @@ For those ready to dive in and contribute directly, here's a general workflow to
     * **Push** your branch to your forked repository.
     * Open a **Pull Request** from your branch to the `main` branch of the main Cyberlimb repository.
     * Ensure your PR description clearly explains the changes you've made and why.
+
+### Communication Channels
+
+We encourage open discussion and collaboration. Here are the primary ways to connect with the Cyberlimb project community:
+
+* **GitHub Issues:** For reporting bugs, discussing specific technical challenges, or tracking tasks related to planned features.
+* **GitHub Discussions:** For broader conceptual discussions, proposing new ideas, seeking feedback, or general community interaction.
+
+We aim to foster a responsive and supportive environment. Please be patient if it takes a little time to respond, as this is a volunteer-driven, early-stage project.
