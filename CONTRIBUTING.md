@@ -17,3 +17,22 @@ To get the Cyberlimb from concept to a tangible prototype, we're currently prior
 - Artistic Design & Aesthetics: Skilled artists, sculptors, and industrial designers are essential. Your eye for form, proportion, biomimetic aesthetics, and ergonomic elegance will ensure the Cyberlimb is not only functional but also a beautiful, intuitive, and personally integrating extension of the user.
 
 As an Open Source project, we wholeheartedly welcome new ideas, insights, and contributions from all sources. However, please know that all proposed contributions and ideas will be subject to a peer-review process to ensure the scientific rigor, engineering viability, and overall quality of the Cyberlimb's development.
+
+- Code of Conduct: To ensure a welcoming and inclusive environment for everyone, we ask all contributors to adhere to our Code of Conduct. Please read it before contributing.
+
+- Reporting Issues or Bugs: If you find a bug or an issue with the Cyberlimb concept or documentation, please open a new issue on our GitHub Issues page. Before opening a new issue, please search existing ones to avoid duplicates.
+
+- Proposing New Features or Ideas: Have a brilliant idea or a new concept you'd like to propose? We encourage you to open a new discussion on our GitHub Discussions page (or create an issue if it's a specific, actionable feature). This allows for open brainstorming and feedback.
+
+- Submitting Changes (Pull Requests): For making actual changes to the documentation, design files, or code (when applicable), we follow a standard Pull Request (PR) workflow:
+
+- Fork the repository to your own GitHub account.
+- Clone your forked repository to your local machine.
+- Create a new branch for your changes.
+- Make your changes (e.g., update documentation, add a design file).
+- Commit your changes with clear, concise messages.
+- Push your branch to your forked repository.
+- Open a Pull Request from your branch to the main branch of the main Cyberlimb repository.
+- Ensure your PR description clearly explains the changes you've made and why.
+
+
