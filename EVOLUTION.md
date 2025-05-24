@@ -1,36 +1,29 @@
 ## Phase 1: Core Concept & Basic Actuation Prototype
 
-This initial phase focuses on validating the fundamental principles of the Cyberlimb's design. The goal is to develop the simplest possible functional prototype that demonstrates the viability of nitinol-based actuation and initial thermal control. Success in this phase will prove the core concept and provide a tangible foundation for future development.
+This initial phase focuses on validating the fundamental principles of the Cyberlimb's design. The goal is to develop the simplest possible functional prototype that demonstrates the viability of nitinol-based actuation and initial thermal control. Success in this phase will prove the core concept and provide a tangible foundation for future development. This beginning state is not its end state; rather, it is an emergent step in the Cyberlimb's evolution.
 
 **Key Objectives:**
 
-* **Single Hinge Joint Armature:** Design and fabricate a basic skeletal structure featuring a single, functional hinge joint. This will be minimalistic, prioritizing ease of manufacturing (e.g., 3D printed components like PLA or ABS) for rapid prototyping. The design must include clear connection points for nitinol attachment.
-* **Nitinol Actuation Proof-of-Concept:** Integrate initial muscle groups comprising one bicep, one tricep, one flexor, and one extensor onto the hinge joint. The primary aim is to reliably demonstrate controlled flexion and extension of the joint through the nitinol's shape memory effect.
+* **Simplified Armature Design (Humerus, Elbow, Radius/Ulna Analogs):** Design and fabricate a basic skeletal structure featuring a single, functional hinge joint. This will conceptually represent the **humerus, elbow joint, and the radius/ulna**. The armature will be minimalistic, prioritizing ease of manufacturing (e.g., 3D printed components like PLA or ABS, or sculpted elements) for rapid prototyping. The 3D printing approach will allow for creating custom attachment points for the "tendons."
+* **Nitinol Actuation Proof-of-Concept:** Integrate initial muscle groups comprising one bicep, one tricep, one flexor, and one extensor onto the hinge joint.
+    * Initially, **affix the nitinol musculature bands to the armature while they are in their coiled, flexed state.**
+    * To demonstrate extension, **manually detach one of the antagonistic bands (e.g., the bicep), move the joint into its extended state, and then re-attach the band.** This sets the initial tension for the antagonistic pair.
+    * The primary aim is to reliably demonstrate controlled flexion and extension of the joint through the nitinol's shape memory effect.
 * **Basic Thermal Interaction:** Implement a simplified thermal system consisting of two main conduits (one hot, one cold). These conduits will run through the center of the ribbon-wrapped nitinol bands (muscle groups) to facilitate rapid heating and cooling. This setup will focus on proving the rapid thermal response needed for actuation, without necessarily integrating the full closed-loop fluidic system internally at this stage.
+* **Basic Manual Control (Fulcrum Point):** For this initial prototype, direct manual manipulation via a **fulcrum point** will serve as the primary control mechanism to demonstrate articulation. This simplifies the input, focusing purely on the limb's mechanical response to nitinol actuation.
 
 **Deliverables:**
 
-* CAD models and specifications for the basic single-joint armature.
-* Functional demonstration of controlled movement via nitinol actuation.
-* Preliminary data on nitinol response times and thermal cycling under basic control.
+* CAD models and/or detailed plans for the basic single-joint armature (humerus, elbow, radius/ulna analogs).
+* Functional demonstration of controlled movement via nitinol actuation using manual fulcrum control.
+* Preliminary data on nitinol response times and thermal cycling under basic thermal control.
 
 **Key Considerations & Resources:**
 
 * **Rapid Prototyping Facilities:** Access to 3D printers for manufacturing armature segments. While specialized fabrication facilities (e.g., at universities or industrial plants) would be beneficial for advanced stages, initial prototyping can leverage more accessible 3D printing.
 * **Nitinol Sourcing:** Identifying and acquiring ribbon-wire nitinol from specialized manufacturers. Initial research points to companies like Ulbrich Stainless Steels & Special Metals, Fort Wayne Metals, and EdgeTech Industries as potential suppliers for nitinol in various forms suitable for this application.
-* **Design Tools & Methods:** Utilizing **photogrammetry or 3D scanning of existing anatomical structures** (e.g., bones) can greatly expedite the initial design and digital modeling of armature components, complementing traditional CAD approaches. This leverages real-world forms for biomimicry.
+* **Design Tools & Methods:** Utilizing photogrammetry or 3D scanning of existing anatomical structures (e.g., bones) can greatly expedite the initial design and digital modeling of armature components, complementing traditional CAD approaches. This leverages real-world forms for biomimicry.
 * **Distributed Collaboration:** The open-source nature of this project on GitHub means that collaborators with access to diverse fabrication equipment, specialized materials, or advanced design tools (like high-fidelity scanners) can contribute their resources and expertise globally.
-
-**Deliverables:**
-
-* CAD models and specifications for the basic single-joint armature.
-* Functional demonstration of controlled movement via nitinol actuation.
-* Preliminary data on nitinol response times and thermal cycling under basic control.
-
-**Key Considerations & Resources:**
-
-* **Rapid Prototyping Facilities:** Access to 3D printers for manufacturing armature segments.
-* **Nitinol Sourcing:** Identifying and acquiring ribbon-wire nitinol from specialized manufacturers. Initial research points to companies like Ulbrich Stainless Steels & Special Metals, Fort Wayne Metals, and EdgeTech Industries as potential suppliers for nitinol in various forms suitable for this application.
 
 ## Phase 2: Integrated System Demonstration
 
