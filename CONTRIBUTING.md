@@ -1,4 +1,4 @@
-How Can You Contribute? (Focusing on Prototype Development)
+### How Can You Contribute? (Focusing on Prototype Development)
 
 To get the Cyberlimb from concept to a tangible prototype, we're currently prioritizing contributions in these core areas:
 
