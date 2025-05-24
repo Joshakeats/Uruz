@@ -4,9 +4,9 @@ This initial phase focuses on validating the fundamental principles of the Cyber
 
 **Key Objectives:**
 
-* **Single Hinge Joint Armature:** Design and fabricate a basic skeletal structure featuring a single, functional hinge joint. This will be minimalistic, prioritizing ease of manufacturing (e.g., 3D printed PLA or simple aluminum) over final strength or weight.
-* **Nitinol Actuation Proof-of-Concept:** Integrate a single pair of antagonistic nitinol coils (one flexor, one extensor) onto the hinge joint. The primary aim is to reliably demonstrate controlled flexion and extension of the joint through the nitinol's shape memory effect.
-* **Basic Thermal Interaction:** Implement a simplified, potentially external, method for heating and cooling the nitinol coils. This will focus on proving the rapid thermal response needed for actuation, without necessarily integrating the full closed-loop fluidic system internally at this stage.
+* **Single Hinge Joint Armature:** Design and fabricate a basic skeletal structure featuring a single, functional hinge joint. This will be minimalistic, prioritizing ease of manufacturing (e.g., 3D printed components like PLA or ABS) for rapid prototyping. The design must include clear connection points for nitinol attachment.
+* **Nitinol Actuation Proof-of-Concept:** Integrate **initial muscle groups comprising one bicep, one tricep, one flexor, and one extensor** onto the hinge joint. The primary aim is to reliably demonstrate controlled flexion and extension of the joint through the nitinol's shape memory effect.
+* **Basic Thermal Interaction:** Implement a simplified thermal system consisting of **two main conduits (one hot, one cold)**. These conduits will run through the **center of the ribbon-wrapped nitinol bands (muscle groups)** to facilitate rapid heating and cooling. This setup will focus on proving the rapid thermal response needed for actuation, without necessarily integrating the full closed-loop fluidic system internally at this stage.
 
 **Deliverables:**
 
@@ -14,6 +14,10 @@ This initial phase focuses on validating the fundamental principles of the Cyber
 * Functional demonstration of controlled movement via nitinol actuation.
 * Preliminary data on nitinol response times and thermal cycling under basic control.
 
+**Key Considerations & Resources:**
+
+* **Rapid Prototyping Facilities:** Access to 3D printers for manufacturing armature segments.
+* **Nitinol Sourcing:** Identifying and acquiring ribbon-wire nitinol from specialized manufacturers. Initial research points to companies like Ulbrich Stainless Steels & Special Metals, Fort Wayne Metals, and EdgeTech Industries as potential suppliers for nitinol in various forms suitable for this application.
 ## Phase 2: Integrated System Demonstration
 
 Building upon the successful validation of core nitinol actuation in Phase 1, this phase focuses on the preliminary integration of the Cyberlimb's primary systems. The goal is to demonstrate basic functional synergy between the biomimetic musculature, the fluidic thermal regulation, and nascent sensory feedback within a more controlled, isolated joint or small segment.
