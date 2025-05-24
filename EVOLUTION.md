@@ -31,6 +31,7 @@ This initial phase focuses on validating the fundamental principles of the Cyber
 
 * **Rapid Prototyping Facilities:** Access to 3D printers for manufacturing armature segments.
 * **Nitinol Sourcing:** Identifying and acquiring ribbon-wire nitinol from specialized manufacturers. Initial research points to companies like Ulbrich Stainless Steels & Special Metals, Fort Wayne Metals, and EdgeTech Industries as potential suppliers for nitinol in various forms suitable for this application.
+
 ## Phase 2: Integrated System Demonstration
 
 Building upon the successful validation of core nitinol actuation in Phase 1, this phase focuses on the preliminary integration of the Cyberlimb's primary systems. The goal is to demonstrate basic functional synergy between the biomimetic musculature, the fluidic thermal regulation, and nascent sensory feedback within a more controlled, isolated joint or small segment.
