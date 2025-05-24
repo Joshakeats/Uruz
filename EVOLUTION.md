@@ -13,3 +13,28 @@ This initial phase focuses on validating the fundamental principles of the Cyber
 * CAD models and specifications for the basic single-joint armature.
 * Functional demonstration of controlled movement via nitinol actuation.
 * Preliminary data on nitinol response times and thermal cycling under basic control.
+
+## Phase 2: Integrated System Demonstration
+
+Building upon the successful validation of core nitinol actuation in Phase 1, this phase focuses on the preliminary integration of the Cyberlimb's primary systems. The goal is to demonstrate basic functional synergy between the biomimetic musculature, the fluidic thermal regulation, and nascent sensory feedback within a more controlled, isolated joint or small segment.
+
+**Key Objectives:**
+
+* **Integrated Fluidic System:** Develop a fully closed-loop, miniaturized fluidic system (initial *sanguis*) capable of precise and efficient thermal regulation of the nitinol coils. This includes micro-conduits integrated within the armature structure and a compact external or semi-integrated pump/reservoir.
+* **Enhanced Nitinol Control:** Achieve more refined and rapid control over nitinol contraction and relaxation by optimizing the integrated fluidic thermal system. Focus on demonstrating repeatable, accurate positioning of the joint.
+* **Initial Internal Sensing:** Implement basic internal sensors (e.g., temperature, position encoders) to provide feedback on the joint's state and the nitinol's condition. This will be the precursor to the comprehensive sonic skin and proprioception.
+* **Conceptual AI Control Module:** Begin developing the algorithmic framework for a basic AI control module. This module will interpret sensor data and manage the fluidic system to actuate the nitinol, moving towards adaptive strength regulation and responsive joint movement.
+
+**Deliverables:**
+
+* A single-joint prototype demonstrating integrated nitinol actuation and fluidic thermal management.
+* Reliable, repeatable control over joint position and movement within a defined range.
+* Demonstration of basic internal sensor feedback influencing control.
+* Preliminary designs and simulations of the miniaturized fluidic system and early control algorithms.
+
+**Key Considerations & Challenges:**
+
+* **Miniaturization:** Scaling down the fluidic components to fit within the armature.
+* **Heat Dissipation:** Ensuring efficient heat transfer to and from the nitinol without overheating surrounding components or the fluid.
+* **Control Algorithm Complexity:** Developing stable and responsive control loops for combined thermal and mechanical actuation.
+* **Material Compatibility:** Ensuring long-term compatibility between the fluid, nitinol, armature materials, and integrated sensors.
