@@ -17,6 +17,7 @@ This initial phase focuses on validating the fundamental principles of the Cyber
 * CAD models and/or detailed plans for the basic single-joint armature (humerus, elbow, radius/ulna analogs).
 * Functional demonstration of controlled movement via nitinol actuation using manual fulcrum control.
 * Preliminary data on nitinol response times and thermal cycling under basic thermal control.
+* **A simple, stable, and visually appropriate demonstration platform** to showcase the prototype effectively.
 
 **Key Considerations & Resources:**
 
