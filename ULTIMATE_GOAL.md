@@ -1,6 +1,6 @@
 ## The Fully Realized Cybernetic System: Beyond the Human Limb
 
-While the initial focus of the Cyberlimb project is on creating an advanced prosthetic arm, our ultimate vision extends far beyond. The groundbreaking nitinol-based cybernetic system, with its biomimetic musculature, fluidic thermal regulation, and distributed AI, is designed to be a foundational technology applicable wherever sophisticated, muscle-like articulation and force generation are required.
+While the initial focus of the Uruz project is on creating an advanced prosthetic arm, our ultimate vision extends far beyond. The groundbreaking nitinol-based cybernetic system, with its biomimetic musculature, fluidic thermal regulation, and distributed AI, is designed to be a foundational technology applicable wherever sophisticated, muscle-like articulation and force generation are required.
 
 This encompasses:
 
