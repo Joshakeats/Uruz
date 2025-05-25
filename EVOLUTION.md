@@ -1,6 +1,6 @@
 ## Phase 1: Core Concept & Basic Actuation Prototype
 
-This initial phase focuses on validating the fundamental principles of the Cyberlimb's design. The goal is to develop the simplest possible functional prototype that demonstrates the viability of nitinol-based actuation and initial thermal control. Success in this phase will prove the core concept and provide a tangible foundation for future development. This beginning state is not its end state; rather, it is an emergent step in the Cyberlimb's evolution.
+This initial phase focuses on validating the fundamental principles of the Uruz's design. The goal is to develop the simplest possible functional prototype that demonstrates the viability of nitinol-based actuation and initial thermal control. Success in this phase will prove the core concept and provide a tangible foundation for future development. This beginning state is not its end state; rather, it is an emergent step in the Uruz's evolution.
 
 **Key Objectives:**
 
@@ -28,7 +28,7 @@ This initial phase focuses on validating the fundamental principles of the Cyber
 
 ## Phase 2: Integrated System Demonstration
 
-Building upon the successful validation of core nitinol actuation in Phase 1, this phase focuses on the preliminary integration of the Cyberlimb's primary systems. The goal is to demonstrate basic functional synergy between the biomimetic musculature, the fluidic thermal regulation, and nascent sensory feedback within a more controlled, isolated joint or small segment.
+Building upon the successful validation of core nitinol actuation in Phase 1, this phase focuses on the preliminary integration of the Uruz's primary systems. The goal is to demonstrate basic functional synergy between the biomimetic musculature, the fluidic thermal regulation, and nascent sensory feedback within a more controlled, isolated joint or small segment.
 
 **Key Objectives:**
 
@@ -92,7 +92,7 @@ This final developmental phase brings together all advanced systems into a fully
 * **Advanced AI Refinement & Personalization:** Fine-tune the adaptive AI control system to optimize responsiveness, efficiency, and intuitive operation across a full range of complex movements.
 * **Comprehensive Human Trial Preparation:**
     * **Baseline AI Training with Full-Limbed Individuals:** A crucial initial step involves **collaborating with individuals possessing full limbs to train the AI relay systems.** This provides the AI with an unambiguous and ideal blueprint of natural human movement, intent, and proprioception. By learning from a physically present, functioning limb, the AI's understanding of biomimetic function becomes **real, not imagined**, preventing a "blind leading the blind" scenario and establishing a robust foundational model.
-    * **Individualized Adaptation with Amputees:** Subsequently, work directly **with amputees to train the AI relays further and facilitate the amputee's own process of learning and relearning their limb's function.** This symbiotic phase allows the AI to personalize its responses to the individual user's unique neural signals and "modus operandi," while the user develops intuitive control and integrates the cybernetic limb as a natural extension of themselves. While understanding phenomena like phantom limb syndrome is important for patient support, the AI's core functional learning is grounded in the "real" limb data. This collaborative learning process represents **the ultimate "acid test"** of the Cyberlimb's design and functionality.
+    * **Individualized Adaptation with Amputees:** Subsequently, work directly **with amputees to train the AI relays further and facilitate the amputee's own process of learning and relearning their limb's function.** This symbiotic phase allows the AI to personalize its responses to the individual user's unique neural signals and "modus operandi," while the user develops intuitive control and integrates the cybernetic limb as a natural extension of themselves. While understanding phenomena like phantom limb syndrome is important for patient support, the AI's core functional learning is grounded in the "real" limb data. This collaborative learning process represents **the ultimate "acid test"** of the Uruz's design and functionality.
     * **Ethical Review & Regulatory Compliance:** Engage with ethical review boards and relevant regulatory bodies to ensure all human trial protocols are rigorously vetted, safe, and compliant with all necessary guidelines.
 * **Documentation for Deployment:** Prepare comprehensive documentation, user manuals, and maintenance guidelines for potential deployment and future development.
 
