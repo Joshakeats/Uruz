@@ -1,4 +1,4 @@
-# Cyberlimb
+# Uruz
 
 An open source, biomimetic prosthesis utilizing nitinol musculature, and advanced sensory feedback. 
 
@@ -43,19 +43,19 @@ Tier 3 (Next Related): Incorporates input from more distant, relevant parts of t
 
 Tier 4 (Ancillary/Higher-Level): The highest tier in this distributed system, integrating information from across the limb and inferring higher-level states like user intent ("Am I anticipating?"), whether the limb is "at rest," and providing overall contextual understanding to inform the lower tiers.
 
-Crucially, through continuous learning and adaptation, the distributed AI interlinks can identify and match the user's natural motion and overall body style—their unique "modus operandi." This allows the Cyberlimb to move not just functionally, but with the user's inherent grace, rhythm, and individual characteristics.
+Crucially, through continuous learning and adaptation, the distributed AI interlinks can identify and match the user's natural motion and overall body style—their unique "modus operandi." This allows the Uruz to move not just functionally, but with the user's inherent grace, rhythm, and individual characteristics.
 
 Ultimate potential: This tiered architecture allows for an optimal blend of rapid, reactive behavior and nuanced, context-aware control. It enables the AI to learn and adapt to the user's specific movement patterns and preferences over time, facilitating the development of intuitive muscle memory and the execution of highly complex tasks, such as manipulating delicate objects or even playing musical instruments with unprecedented dexterity and feel. This distributed processing also enhances robustness and scalability across multiple prosthetic limbs.
-Power System: The Lifeblood of the Cyberlimb
+Power System: The Lifeblood of the Uruz
 
 Challenge: To provide robust, efficient, and anatomically integrated power for all high-demand systems of the prosthesis, from rapid thermal changes for muscle actuation to complex AI processing and advanced sensory feedback.
 
-What makes it different: The Cyberlimb's power system is designed for distributed, efficient energy delivery, where power wiring follows the natural anatomy of the limb. For current implementations, this involves a high-capacity, externally located battery (e.g., a fanny-pack style unit, as previously discussed) serving as the primary energy reservoir. This external battery powers the sophisticated onboard AI, the myriad of advanced sensors, and crucially, the active components of the fluidic thermal system (pumps, localized heating/cooling elements) that drive the nitinol muscle contractions and extensions.
+What makes it different: The Uruz's power system is designed for distributed, efficient energy delivery, where power wiring follows the natural anatomy of the limb. For current implementations, this involves a high-capacity, externally located battery (e.g., a fanny-pack style unit, as previously discussed) serving as the primary energy reservoir. This external battery powers the sophisticated onboard AI, the myriad of advanced sensors, and crucially, the active components of the fluidic thermal system (pumps, localized heating/cooling elements) that drive the nitinol muscle contractions and extensions.
 
 Ultimate potential: Looking towards the future, the vision extends to fully integrated, bio-regenerative power sources. Concepts like augmented electric organs (inspired by creatures like torpedo rays), if perfected, could provide a seamlessly integrated, self-sustaining power supply. This would eliminate the need for external batteries, allowing the prosthesis to function as an almost truly living extension, with its power generation inherently tied to its internal "anatomy" and metabolic processes. The fluidic thermal system, akin to a "heart," would circulate the thermal gel to precisely impel the nitinol's shape transitions using this integrated energy.
 
 Broader Applications & Humanitarian Impact
-The foundational technologies developed for the Cyberlimb prosthesis extend far beyond limb replacement, offering transformative potential in various critical areas:
+The foundational technologies developed for the Uruz prosthesis extend far beyond limb replacement, offering transformative potential in various critical areas:
 
 For the Blind: Leveraging the audiotactile synesthesia and sonic lattice, devices could provide a new form of spatial awareness, allowing individuals to "feel" their environment through sonic reflections, sensing objects, textures, and distances without direct physical contact.
 For the Deaf: By translating audio input into tactile sensations, individuals could "perceive" sound in a completely new way, experiencing music, environmental cues, or even the subtle vibrations of speech through touch.
@@ -65,7 +65,7 @@ Advanced Surgical Tools: The precise nitinol musculature, combined with high-res
 User Intent Interface: A Symphony of Perception and Control
 Challenge: To achieve intuitive, high-fidelity control of the prosthesis without requiring invasive direct neural interfaces, while fostering a deeply integrated user experience.
 
-What makes it different: The Cyberlimb's user interface is designed to supplant the need for direct neural interfaces by orchestrating a "symphony of input." This non-invasive system harmonizes data from various sources:
+What makes it different: The Uruz's user interface is designed to supplant the need for direct neural interfaces by orchestrating a "symphony of input." This non-invasive system harmonizes data from various sources:
 
 AI Prediction: Leveraging the distributed AI's ability to learn user intent, predict movements, and perform "motion capture cleanup" on input signals, synthesizing and smoothing commands in real-time.
 Audiotactile Feedback: Utilizing the unique audiotactile synesthesia of the sonic skin, providing rich perceptual input that guides user action.
@@ -79,7 +79,7 @@ Thermoreception: The Subtle Language of Temperature
 
 Challenge: To restore the critical and nuanced sensation of temperature, enabling the user to perceive subtle thermal cues from the environment, identify materials, and experience the warmth of human touch, beyond mere mechanical feedback.
 
-What makes it different: The Cyberlimb integrates a sophisticated thermoreceptive system that leverages the existing fluidic and sensory networks to convey heat sensation, which, while seemingly subtle, is profoundly impactful on user experience:
+What makes it different: The Uruz integrates a sophisticated thermoreceptive system that leverages the existing fluidic and sensory networks to convey heat sensation, which, while seemingly subtle, is profoundly impactful on user experience:
 
 Integrated Thermal Transducers: Micro-thermal sensors are embedded within the outermost layers of the Sonic Skin and along the Biomimetic Skeletal Structure. These sensors are finely tuned to detect not just absolute temperature, but also the rate of heat transfer, mimicking the complex responses of biological thermoreceptors.
 
@@ -88,8 +88,8 @@ AI Interpretation & Neural Mapping: The distributed AI processes the input from 
 
 Multisensory Integration: Temperature sensation is rarely isolated in biology. The AI integrates thermal data with pressure, texture (from the sonic lattice), and visual information to create a holistic and natural sensory experience, allowing the user to distinguish between, for example, a warm, smooth mug versus a cold, rough piece of metal.
 
-Ultimate potential: Restoring comprehensive thermoreception moves the Cyberlimb beyond a mere functional tool to a truly intuitive and integrated extension of the user. It enables a richer interaction with the world, improves object manipulation through material recognition, and, crucially, facilitates deeper social and emotional connections by allowing the user to "feel" the warmth of a handshake or the gentle touch of a loved one.
+Ultimate potential: Restoring comprehensive thermoreception moves the Uruz beyond a mere functional tool to a truly intuitive and integrated extension of the user. It enables a richer interaction with the world, improves object manipulation through material recognition, and, crucially, facilitates deeper social and emotional connections by allowing the user to "feel" the warmth of a handshake or the gentle touch of a loved one.
 
 Conclusion: A Blueprint for the Future of Human Potential
 
-The Cyberlimb project stands as a bold, open-source endeavor, pushing the boundaries of what's possible in biomimetic design and human-machine integration. It's more than just an advanced prosthetic; it's a living blueprint for a future where technology doesn't just compensate for loss but seamlessly extends human capability, deeply integrated with sensation, intent, and individual "modus operandi." This "anatomy book for cybernetics" is a testament to what's achievable when diverse fields converge. We invite engineers, biologists, artists, coders, and dreamers from around the world to join us in refining this vision and contributing their expertise to build a future where human potential is truly boundless.
+The Uruz project stands as a bold, open-source endeavor, pushing the boundaries of what's possible in biomimetic design and human-machine integration. It's more than just an advanced prosthetic; it's a living blueprint for a future where technology doesn't just compensate for loss but seamlessly extends human capability, deeply integrated with sensation, intent, and individual "modus operandi." This "anatomy book for cybernetics" is a testament to what's achievable when diverse fields converge. We invite engineers, biologists, artists, coders, and dreamers from around the world to join us in refining this vision and contributing their expertise to build a future where human potential is truly boundless.
