@@ -109,4 +109,4 @@ This final developmental phase brings together all advanced systems into a fully
 * **Seamless Neural Interface:** Achieving high-fidelity, stable, and long-term direct neural interface (where applicable and ethically approved) for intuitive control and sensory feedback.
 * **User Acceptance & Training:** The psychological and physiological adaptation of users to the advanced limb.
 * **Scalability & Manufacturing:** Developing cost-effective and scalable manufacturing processes for widespread adoption.
-* **Long-Term Maintenance & Repair:** Designing for ease of maintenance, repair, and potential upgrades over the lifespan of the limb.
+* **Long-Term Maintenance & Repair:** Designing for ease of maintenance, repair, and potential upgrades over the lifespan of the limb. This includes implementing **user-level adjustability through intuitive, analog interfaces (e.g., dials or knobs)** where the scale of the physical input directly represents the applied change, empowering users to perform fine-tuning for optimal performance, akin to a steering wheel providing proportional control.
