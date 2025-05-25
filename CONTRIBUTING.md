@@ -1,6 +1,6 @@
 ### How Can You Contribute? (Focusing on Prototype Development)
 
-To get the Cyberlimb from concept to a tangible prototype, we're currently prioritizing contributions in these core areas:
+To get the Uruzfrom concept to a tangible prototype, we're currently prioritizing contributions in these core areas:
 
 - Conceptual & Detailed Design: If you're skilled in CAD software or mechanical design, we need help translating biomimetic principles into precise digital models for the skeletal structure, nitinol muscle configurations, and fluidic pathways. This includes exploring different joint mechanisms and attachment points.
 
