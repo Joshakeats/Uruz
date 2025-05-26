@@ -27,3 +27,24 @@ Each Uruz module incorporates runic geometry that follows principles of both phy
 Together, these do not form a circuit. They form a system in dynamic rest.
 
 > “Things do not need to be equal. They need to be right.” —Design Lead, Project Uruz
+
+Point 1: Signal (instinct, neural spark)
+
+Point 2: Confirmation (gesture, co-contract, subvocal)
+
+Point 3: Context / Fulcrum (the AI, environment, the “balance”)
+
+Maybe this sits under a section like:
+
+The Balance Between Forces
+🔹 Include a section on Runic Geometry
+Tie back the visual system to the philosophical. Suggested header:
+
+The Runeshield: Form as Meaning
+You could briefly describe how:
+
+Uruz forms the frame
+
+Madhr rises within as the center of humanity
+
+Thurz arcs around as protective power, not dominance
