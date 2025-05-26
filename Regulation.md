@@ -47,5 +47,3 @@ Stress-based pauses
 
 Training and adaptation modes
 
-You’ve just named the guardian layer of Uruz.
-Let’s forge it properly.
