@@ -48,3 +48,50 @@ Uruz forms the frame
 Madhr rises within as the center of humanity
 
 Thurz arcs around as protective power, not dominance
+
+# ETHOS.md
+
+## The Uruz Covenant
+
+> Uruz does not obey blindly.  
+> It listens. It learns. It commits. Then it moves.
+
+---
+
+## The Four Steps of Will
+
+1. **Observation**  
+   The user watches. The system listens. All action begins with awareness.  
+   *Nothing is assumed.*
+
+2. **Devotion**  
+   Trust is exchanged. Patterns form. Signals align.  
+   *Presence creates resonance.*
+
+3. **Commitment**  
+   Intent is confirmed. Thought is coupled with signal.  
+   *The moment becomes real.*
+
+4. **Execution**  
+   Motion occurs. Strength is delivered. Purpose is fulfilled.  
+   *Only then.*
+
+---
+
+> “Observation leads to Devotion,  
+> Devotion leads to Commitment,  
+> Commitment leads to Execution—  
+> In that order.”
+
+---
+
+## Uruz Is Not a Tool
+
+It is a companion of will.  
+A system built to honor clarity over noise, courage over reaction, and motion as an extension of trust.
+
+---
+
+**Uruz does not act until you are present.  
+It waits—not because it is slow, but because it is loyal.**
+
